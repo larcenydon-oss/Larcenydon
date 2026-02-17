@@ -1,4 +1,36 @@
 #"My learning goals"  
-##"This Semester"
+###"This Semester"
 by the end of this course i want to **understand** the *basic concepts*of `artificial intelligence`
-https://
+##links
+(https://github.com/larcenydon-oss)
+(https://www.moviebox.ph)
+## Things I Want to learn
+1.machine learning
+2.how to build and operate ai
+##Lists
+###unordered lists(unordered list of things i want to learn)
+-computer programmimg
+-web develpment
+-python
+###ordered list(steps to make a commit in git)
+1.create a repository by a command called git innit
+2.add files by using git add  basically the plus sign 
+3.commit changes using git commit(the green button named as commit changes)
+4.push to git hub by using the command git push
+##tables
+|Tool        |purpose                              |Link             |
+|------------|-------------------------------------|-----------------|
+|Github      |a platform to store codes            |https://github.com|
+|git         |version control system               |https://git-scm.com|
+|python      |the most popular language for AI     |https://python.org/|
+## task list
+### My learning Goals
+-learn markdown
+-how to operate AI and build it
+-how to write codes
+##Code block
+```python
+print("hello,world!")
+##Blockquote
+knowing is not enough,we must apply must apply.willing is not enough,we must do
+hello my name is Don i am currently learning artificial intelligence and improving my skills on git hub and markdown
